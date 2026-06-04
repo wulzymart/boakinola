@@ -28,7 +28,10 @@ export const SITE = {
   social: {
     linkedin: "https://www.linkedin.com/company/boakinola",
   },
-  ogImage: "/images/og/home.svg",
+  ogImage: "/images/og/home.jpg",
+  ogImageWidth: 1200,
+  ogImageHeight: 630,
+  ogImageAlt: "BOAkinola & Co — Chartered Accountants & Tax Advisors in Lagos, Nigeria",
 } as const;
 
 export type Site = typeof SITE;
