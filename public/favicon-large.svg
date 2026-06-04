@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="1080" height="1080">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B2545"/>
+      <stop offset="100%" stop-color="#13315C"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+  <g transform="translate(540 480)">
+    <text text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-size="320" fill="#C9A227" y="40">B</text>
+    <text text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-weight="500" font-size="80" fill="#FFFFFF" y="180" font-style="italic">&amp; Co</text>
+  </g>
+  <text x="540" y="780" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-weight="600" font-size="34" fill="#C9A227" letter-spacing="0.32em">CHARTERED ACCOUNTANTS</text>
+  <text x="540" y="840" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-weight="400" font-size="22" fill="#FFFFFF" opacity="0.7">Lagos · Abuja · Port Harcourt</text>
+  <text x="540" y="880" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-weight="400" font-size="22" fill="#FFFFFF" opacity="0.7">ICAN licensed since 1990</text>
+</svg>

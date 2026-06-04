@@ -1,0 +1,33 @@
+# BOAkinola & Co
+
+Chartered Accountants in Lagos, licensed by the Institute of Chartered Accountants of Nigeria (ICAN) on 24 May 1990.
+
+## Services
+- Auditing: [/services/auditing](/services/auditing)
+- Accounting: [/services/accounting](/services/accounting)
+- Taxation: [/services/taxation](/services/taxation)
+- Value Added Tax (VAT): [/services/value-added-tax](/services/value-added-tax)
+- Debt Recovery: [/services/debt-recovery](/services/debt-recovery)
+- Management Consultancy: [/services/management-consultancy](/services/management-consultancy)
+- Company Formation & Secretarial Services: [/services/company-formation](/services/company-formation)
+- Receivership & Liquidation: [/services/receivership-liquidation](/services/receivership-liquidation)
+- Investigation: [/services/investigation](/services/investigation)
+- Reconciliation of Accounts: [/services/reconciliation](/services/reconciliation)
+- Asset Verification & Valuation: [/services/asset-verification](/services/asset-verification)
+- Training: [/services/training](/services/training)
+- Agricultural Extension Services: [/services/agricultural-extension](/services/agricultural-extension)
+
+## Pages
+- Home: [/](/)
+- About: [/about](/about)
+- Services index: [/services](/services)
+- Contact: [/contact](/contact)
+- Privacy: [/privacy](/privacy)
+
+## Contact
+- Email: info@boakinola.com
+- Phone: +234 802 501 2214
+- Phone: +234 803 715 2480
+- WhatsApp: https://wa.me/2348025012214
+- Address: 181 Flat 3, LSDPC Medium Housing Estate, S4TC, Oba-Ogunji Road, Ijaiye-Ogba, Lagos. P.O. Box 3089, Shomolu, Lagos.
+- Hours: Mon – Fri · 9:00 AM – 5:00 PM WAT

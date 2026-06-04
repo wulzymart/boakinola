@@ -1,0 +1,19 @@
+{
+  "name": "BOAkinola & Co",
+  "short_name": "BOAkinola",
+  "description": "Chartered Accountants in Lagos — Auditing, Tax & Advisory. ICAN licensed since 1990.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#0B2545",
+  "background_color": "#FFFFFF",
+  "lang": "en-NG",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any"
+    }
+  ]
+}
