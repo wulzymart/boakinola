@@ -51,16 +51,6 @@ export const TEAM: TeamMember[] = [
     gradientTo: "#1E40AF",
   },
   {
-    slug: "adebiyi-odunnaike",
-    name: "Adebiyi Odunnaike",
-    initials: "AO",
-    credentials: "HND (Accountancy)",
-    role: "Manager — Tax",
-    bio: "An accounting graduate with more than ten years of experience, having worked with Gboye Ayoade & Co (Chartered Accountants) as a tax expert. He leads tax engagements across personal, corporate and indirect tax.",
-    gradientFrom: "#102A56",
-    gradientTo: "#1E3A8A",
-  },
-  {
     slug: "folasade-akinola",
     name: "Folasade Akinola",
     initials: "FA",
@@ -69,16 +59,6 @@ export const TEAM: TeamMember[] = [
     bio: "A tax expert who worked with the Lagos State Board of Internal Revenue Service for over ten years as senior staff and tax assessor. Brings deep experience of state-level tax practice to the firm's clients.",
     gradientFrom: "#0B2545",
     gradientTo: "#13315C",
-  },
-  {
-    slug: "akeem-adeyinka",
-    name: "Akeem Adeyinka",
-    initials: "AA",
-    credentials: "B.Sc, MBA, FCA",
-    role: "Senior — Cost & Management Accounting",
-    bio: "A highly experienced tax expert who worked with DN Meyer Plc as Cost and Management Accountant. His experience spans all sections of accounting and auditing, with particular depth in cost engineering and management reporting.",
-    gradientFrom: "#13315C",
-    gradientTo: "#0B2545",
   },
 ];
 

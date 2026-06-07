@@ -30,17 +30,35 @@ export const PROCESS_STEPS = [
 ] as const;
 
 export const VALUES = [
-  { label: "Ingenuity", body: "We think first, then act. Every engagement starts with a clear question and ends with a defensible answer." },
-  { label: "Creativity", body: "Tax, audit and advisory problems rarely have off-the-shelf answers. We design solutions that fit your business." },
-  { label: "Customer Focused", body: "Your deadlines, your stakeholders and your risks drive our work — not the other way around." },
-  { label: "Transparency", body: "Plain-English updates. No hidden fees. No scope creep. You always know where the engagement stands." },
-  { label: "Commitment", body: "When we take on an engagement, principal-officer time is committed until the deliverable is signed off." },
-  { label: "Integrity", body: "We have been licensed by ICAN since 24 May 1990, and we still do business the same way we did on day one." },
+  {
+    label: "Ingenuity",
+    body: "We think first, then act. Every engagement starts with a clear question and ends with a defensible answer.",
+  },
+  {
+    label: "Creativity",
+    body: "Tax, audit and advisory problems rarely have off-the-shelf answers. We design solutions that fit your business.",
+  },
+  {
+    label: "Customer Focused",
+    body: "Your deadlines, your stakeholders and your risks drive our work — not the other way around.",
+  },
+  {
+    label: "Transparency",
+    body: "Plain-English updates. No hidden fees. No scope creep. You always know where the engagement stands.",
+  },
+  {
+    label: "Commitment",
+    body: "When we take on an engagement, principal-officer time is committed until the deliverable is signed off.",
+  },
+  {
+    label: "Integrity",
+    body: "We have been licensed by ICAN since 24 May 1990, and we still do business the same way we did on day one.",
+  },
 ] as const;
 
 export const STATS = [
   { value: 30, suffix: "+", label: "Years of practice" },
   { value: 13, suffix: "", label: "Professional services" },
-  { value: 1990, suffix: "", label: "ICAN licensed" },
+  { value: " 1990", suffix: "", label: "ICAN licensed" },
   { value: 7, suffix: "", label: "Principal officers" },
 ] as const;

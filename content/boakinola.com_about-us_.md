@@ -69,7 +69,7 @@ To be a quality organization providing superior professional services to our cli
 
 #### Our Experience
 
-## We have 30+ years of    experience of auditing & consulting services
+## We have 30+ years of experience of auditing & consulting services
 
 We are able to use our wealth of experience to navigate the financial situation of your firm, give you a detailed report and recommendation that guarantees success
 
@@ -108,12 +108,6 @@ A Chartered Accountant with rich background in Audit and Consultancy, he has exp
 ###### (B.SC, M.SC.)
 
 She is an accounting graduate of The Covenant University, Ota Nigeria and holds a Master of Science Degree in International Business from the Coventry University, United Kingdom. She is a very resourceful, innovative and articulate person.
-
-##### ADEBIYI ODUNNAIKE
-
-###### (HND)
-
-He is an accounting graduate with more than ten years experience. He has worked with Gboye Ayoade & Co (Chartered Accountants ) as Tax Expert.
 
 ##### FOLASADE AKINOLA
 

@@ -199,7 +199,7 @@ Next
 
 #### Our Experience
 
-## We have 30+ years of    experience of auditing & consulting services
+## We have 30+ years of experience of auditing & consulting services
 
 We are able to use our wealth of experience to navigate the financial situation of your firm, give you a detailed report and recommendation that guarantees success
 
@@ -265,23 +265,11 @@ A Chartered Accountant with rich background in Audit and Consultancy, he has exp
 
 She is an accounting graduate of The Covenant University, Ota Nigeria and holds a Master of Science Degree in International Business from the Coventry University, United Kingdom. She is a very resourceful, innovative and articulate person.
 
-##### ADEBIYI ODUNNAIKE
-
-###### (HND)
-
-He is an accounting graduate with more than ten years experience. He has worked with Gboye Ayoade & Co (Chartered Accountants ) as Tax Expert.
-
 ##### FOLASADE AKINOLA
 
 ###### (B. SC) ACCOUNT
 
 She is a Tax expert who had worked with Lagos State Board of Internal Revenue Service for over 10 years as a senior Staff and Tax Assessor.
-
-##### AKEEM ADEYINKA
-
-###### (B.SC, MBA, FCA)
-
-He is a highly experienced tax expert. He worked with DN Meyer Plc as Cost and Management Accountant. His experience spanned through all sections in accounting and auditing.
 
 ## Get a Quote
 
